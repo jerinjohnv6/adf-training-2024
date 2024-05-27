@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADF-Training-24"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
